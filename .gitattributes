@@ -9,6 +9,7 @@ nandExtract/nandbin.h -text
 nandExtract/nandwindow.cpp -text
 nandExtract/nandwindow.h -text
 nandExtract/nandwindow.ui -text
+nandExtract/readmii.txt -text
 nandExtract/tools.cpp -text
 nandExtract/tools.h -text
 nand_dump/aes.c -text
@@ -23,6 +24,7 @@ nand_dump/nanddump.cpp -text
 nand_dump/nanddump.h -text
 nand_dump/nusdownloader.cpp -text
 nand_dump/nusdownloader.h -text
+nand_dump/readmii.txt -text
 nand_dump/settingtxtdialog.cpp -text
 nand_dump/settingtxtdialog.h -text
 nand_dump/settingtxtdialog.ui -text
@@ -46,6 +48,7 @@ saveToy/mainwindow.ui -text
 saveToy/noBanner.png -text
 saveToy/noIcon.png -text
 saveToy/rc.qrc -text
+saveToy/readmii.txt -text
 saveToy/saveToy.pro -text
 saveToy/savebanner.cpp -text
 saveToy/savebanner.h -text
