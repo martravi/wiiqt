@@ -4,7 +4,6 @@ nandExtract/aes.h -text
 nandExtract/includes.h -text
 nandExtract/main.cpp -text
 nandExtract/nandExtract.pro -text
-nandExtract/nandExtract.pro.user -text
 nandExtract/nandbin.cpp -text
 nandExtract/nandbin.h -text
 nandExtract/nandwindow.cpp -text
