@@ -40,8 +40,6 @@ nandExtract/nandwindow.cpp -text
 nandExtract/nandwindow.h -text
 nandExtract/nandwindow.ui -text
 nandExtract/readmii.txt -text
-nandExtract/tools.cpp -text
-nandExtract/tools.h -text
 nand_dump/main.cpp -text
 nand_dump/mainwindow.cpp -text
 nand_dump/mainwindow.h -text
