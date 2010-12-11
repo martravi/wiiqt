@@ -39,6 +39,8 @@ nandExtract/green.png -text
 nandExtract/grey.png -text
 nandExtract/main.cpp -text
 nandExtract/nandExtract.pro -text
+nandExtract/nandthread.cpp -text
+nandExtract/nandthread.h -text
 nandExtract/nandwindow.cpp -text
 nandExtract/nandwindow.h -text
 nandExtract/nandwindow.ui -text
