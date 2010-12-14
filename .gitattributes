@@ -3,6 +3,8 @@ WiiQt/aes.c -text
 WiiQt/aes.h -text
 WiiQt/ash.cpp -text
 WiiQt/ash.h -text
+WiiQt/blocks0to7.cpp -text
+WiiQt/blocks0to7.h -text
 WiiQt/includes.h -text
 WiiQt/lz77.cpp -text
 WiiQt/lz77.h -text
@@ -35,6 +37,9 @@ WiiQt/wad.cpp -text
 WiiQt/wad.h -text
 nandExtract/black.png -text
 nandExtract/blue.png -text
+nandExtract/boot2infodialog.cpp -text
+nandExtract/boot2infodialog.h -text
+nandExtract/boot2infodialog.ui -text
 nandExtract/green.png -text
 nandExtract/grey.png -text
 nandExtract/main.cpp -text
