@@ -37,6 +37,9 @@ WiiQt/uidmap.cpp -text
 WiiQt/uidmap.h -text
 WiiQt/wad.cpp -text
 WiiQt/wad.h -text
+nandBinCheck/main.cpp -text
+nandBinCheck/nandBinCheck.pro -text
+nandBinCheck/readmii.txt -text
 nandExtract/black.png -text
 nandExtract/blue.png -text
 nandExtract/boot2infodialog.cpp -text
