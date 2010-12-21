@@ -63,6 +63,14 @@ nand_dump/mainwindow.h -text
 nand_dump/mainwindow.ui -text
 nand_dump/nand.pro -text
 nand_dump/readmii.txt -text
+ohneschwanzenegger/main.cpp -text
+ohneschwanzenegger/mainwindow.cpp -text
+ohneschwanzenegger/mainwindow.h -text
+ohneschwanzenegger/mainwindow.ui -text
+ohneschwanzenegger/newnandbin.cpp -text
+ohneschwanzenegger/newnandbin.h -text
+ohneschwanzenegger/newnandbin.ui -text
+ohneschwanzenegger/refleurii.pro -text
 saveToy/includes.h -text
 saveToy/main.cpp -text
 saveToy/mainwindow.cpp -text
