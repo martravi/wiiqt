@@ -37,6 +37,12 @@ WiiQt/uidmap.cpp -text
 WiiQt/uidmap.h -text
 WiiQt/wad.cpp -text
 WiiQt/wad.h -text
+breft_editor/breft.cpp -text
+breft_editor/breft.h -text
+breft_editor/breft.pro -text
+breft_editor/main.cpp -text
+breft_editor/mainwindow.cpp -text
+breft_editor/mainwindow.h -text
 nandBinCheck/main.cpp -text
 nandBinCheck/nandBinCheck.pro -text
 nandBinCheck/readmii.txt -text
