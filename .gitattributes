@@ -43,6 +43,8 @@ breft_editor/breft.pro -text
 breft_editor/main.cpp -text
 breft_editor/mainwindow.cpp -text
 breft_editor/mainwindow.h -text
+breft_editor/texture.cpp -text
+breft_editor/texture.h -text
 nandBinCheck/main.cpp -text
 nandBinCheck/nandBinCheck.pro -text
 nandBinCheck/readmii.txt -text
