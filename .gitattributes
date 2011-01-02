@@ -5,6 +5,10 @@ WiiQt/ash.cpp -text
 WiiQt/ash.h -text
 WiiQt/blocks0to7.cpp -text
 WiiQt/blocks0to7.h -text
+WiiQt/bn.cpp -text
+WiiQt/bn.h -text
+WiiQt/ec.cpp -text
+WiiQt/ec.h -text
 WiiQt/includes.h -text
 WiiQt/keysbin.cpp -text
 WiiQt/keysbin.h -text
