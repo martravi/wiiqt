@@ -120,3 +120,4 @@ saveToy/saveloadthread.cpp -text
 saveToy/saveloadthread.h -text
 saveToy/textdialog.cpp -text
 saveToy/textdialog.h -text
+saveToy/textdialog.ui -text
