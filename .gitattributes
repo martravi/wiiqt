@@ -113,6 +113,7 @@ saveToy/quazip/include/zip.h -text
 saveToy/quazip/include/zlib.h -text
 saveToy/quazip/lib/linux_x64/libquazip.a -text
 saveToy/quazip/lib/linux_x86/libquazip.a -text
+saveToy/quazip/lib/mac/libquazip.a -text
 saveToy/quazip/lib/win32/libquazip.a -text
 saveToy/rc.qrc -text
 saveToy/readmii.txt -text
