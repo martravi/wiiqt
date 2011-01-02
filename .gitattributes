@@ -6,6 +6,8 @@ WiiQt/ash.h -text
 WiiQt/blocks0to7.cpp -text
 WiiQt/blocks0to7.h -text
 WiiQt/includes.h -text
+WiiQt/keysbin.cpp -text
+WiiQt/keysbin.h -text
 WiiQt/lz77.cpp -text
 WiiQt/lz77.h -text
 WiiQt/md5.cpp -text
@@ -20,6 +22,8 @@ WiiQt/nusdownloader.cpp -text
 WiiQt/nusdownloader.h -text
 WiiQt/savebanner.cpp -text
 WiiQt/savebanner.h -text
+WiiQt/savedatabin.cpp -text
+WiiQt/savedatabin.h -text
 WiiQt/settingtxtdialog.cpp -text
 WiiQt/settingtxtdialog.h -text
 WiiQt/settingtxtdialog.ui -text
