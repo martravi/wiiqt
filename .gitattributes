@@ -108,9 +108,12 @@ saveToy/quazip/include/quazipfile.h -text
 saveToy/quazip/include/quazipfileinfo.h -text
 saveToy/quazip/include/quazipnewinfo.h -text
 saveToy/quazip/include/unzip.h -text
+saveToy/quazip/include/zconf.h -text
 saveToy/quazip/include/zip.h -text
+saveToy/quazip/include/zlib.h -text
 saveToy/quazip/lib/linux_x64/libquazip.a -text
 saveToy/quazip/lib/linux_x86/libquazip.a -text
+saveToy/quazip/lib/win32/libquazip.a -text
 saveToy/rc.qrc -text
 saveToy/readmii.txt -text
 saveToy/saveToy.pro -text
