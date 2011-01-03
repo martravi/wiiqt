@@ -86,7 +86,9 @@ ohneschwanzenegger/mainwindow.ui -text
 ohneschwanzenegger/newnandbin.cpp -text
 ohneschwanzenegger/newnandbin.h -text
 ohneschwanzenegger/newnandbin.ui -text
+ohneschwanzenegger/rc.qrc -text
 ohneschwanzenegger/refleurii.pro -text
+ohneschwanzenegger/testlog.txt -text
 saveToy/includes.h -text
 saveToy/main.cpp -text
 saveToy/mainwindow.cpp -text
