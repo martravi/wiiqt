@@ -63,6 +63,7 @@ nandExtract/boot2infodialog.h -text
 nandExtract/boot2infodialog.ui -text
 nandExtract/green.png -text
 nandExtract/grey.png -text
+nandExtract/icon.png -text
 nandExtract/main.cpp -text
 nandExtract/nandExtract.pro -text
 nandExtract/nandthread.cpp -text
@@ -73,12 +74,15 @@ nandExtract/nandwindow.ui -text
 nandExtract/pink.png -text
 nandExtract/rc.qrc -text
 nandExtract/readmii.txt -text
+nand_dump/icon.png -text
 nand_dump/main.cpp -text
 nand_dump/mainwindow.cpp -text
 nand_dump/mainwindow.h -text
 nand_dump/mainwindow.ui -text
 nand_dump/nand.pro -text
+nand_dump/rc.qrc -text
 nand_dump/readmii.txt -text
+ohneschwanzenegger/icon.png -text
 ohneschwanzenegger/main.cpp -text
 ohneschwanzenegger/mainwindow.cpp -text
 ohneschwanzenegger/mainwindow.h -text
