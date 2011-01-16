@@ -139,6 +139,7 @@ thp_player/libpng/include/jconfig.h -text
 thp_player/libpng/include/jerror.h -text
 thp_player/libpng/include/jmorecfg.h -text
 thp_player/libpng/include/jpeglib.h -text
+thp_player/libpng/lib/libjpeg.dll.a -text
 thp_player/main.cpp -text
 thp_player/next.png -text
 thp_player/pause.png -text
