@@ -160,3 +160,6 @@ thp_player/thpwindow.ui -text
 thp_player/vol_high.png -text
 thp_player/vol_low.png -text
 thp_player/vol_med.png -text
+tools/SubWCRev.exe -text
+tools/makesvnrev.sh -text
+tools/svnrev_template.h -text
