@@ -142,7 +142,6 @@ symbolizer/elfparser.cpp -text
 symbolizer/elfparser.h -text
 symbolizer/main.cpp -text
 symbolizer/symbolizer.pro -text
-symbolizer/symbolizer.pro.user -text
 thp_player/ffw.png -text
 thp_player/gcvid.cpp -text
 thp_player/gcvid.h -text
