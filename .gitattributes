@@ -141,6 +141,8 @@ symbolizer/dol.h -text
 symbolizer/elfparser.cpp -text
 symbolizer/elfparser.h -text
 symbolizer/main.cpp -text
+symbolizer/ppc_disasm.c -text
+symbolizer/ppc_disasm.h -text
 symbolizer/symbolizer.pro -text
 thp_player/ffw.png -text
 thp_player/gcvid.cpp -text
