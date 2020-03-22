@@ -1227,6 +1227,10 @@ quint16 NandBin::CreateNode( const QString &name, quint32 uid, quint16 gid, quin
 
     QByteArray n = name.toLatin1();
     n.resize( 12 );
+    for(int j = name.size(); j < 12; j++) //zerofill from last character to the last byte
+    {
+        n[j] = 0x00;
+    }
     //qDebug() << "will add entry for" << n << "at" << hex << i;
     memcpy( &fsts[ i ].filename, n.data(), 12 );
     fsts[ i ].attr = attr;
