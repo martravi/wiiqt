@@ -795,7 +795,7 @@ void MainWindow::on_actionAbout_triggered()
                      "<br><br>IT SHOULD ONLY BE USED BY PEOPLE THAT KNOW HOW TO VERIFY THE FILES IT PRODUCES.  AND HAVE A WAY TO FIX A BRICKED WII SHOULD THIS PROGRAM HAVE BUGS"
                      "<br><br>YOU HAVE BEEN WARNED"
                      "<br>giantpune" );
-    QMessageBox::critical( this, tr( "svn r%1" ).arg( CleanSvnStr( SVN_REV_STR ) ), txt );
+    QMessageBox::critical( this, tr( "NUS NAND Builder" ), txt );
 }
 
 #if 0
