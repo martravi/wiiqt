@@ -1,6 +1,6 @@
 #include "mainwindow.h"
 #include "newnandbin.h"
-#include "svnrev.h"
+//#include "svnrev.h"
 #include "ui_mainwindow.h"
 
 #include "../WiiQt/settingtxtdialog.h"
