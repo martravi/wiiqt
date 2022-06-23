@@ -1,5 +1,4 @@
 #include "nandwindow.h"
-#include "svnrev.h"
 #include "ui_nandwindow.h"
 #include "boot2infodialog.h"
 #include "../WiiQt/tools.h"
@@ -8,7 +7,7 @@ NandWindow::NandWindow( QWidget *parent ) : QMainWindow( parent ), ui( new Ui::N
 {
     ui->setupUi( this );
     ui->mainToolBar->setVisible( false );
-    this->setWindowTitle( "NAND Extract   r" + CleanSvnStr( SVN_REV_STR ) );
+    this->setWindowTitle( "NAND Extract" );
 
     //setup the block map
     SetUpBlockMap();
