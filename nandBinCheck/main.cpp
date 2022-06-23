@@ -1,6 +1,3 @@
-
-#include "svnrev.h"
-
 #include "../WiiQt/includes.h"
 #include "../WiiQt/nandbin.h"
 #include "../WiiQt/sharedcontentmap.h"
@@ -1323,7 +1320,6 @@ int main( int argc, char *argv[] )
 
     qCritical() << "** nandBinCheck : Wii nand info tool **";
     qCritical() << "   from giantpune";
-    qCritical() << "   svn r:" << qPrintable( CleanSvnStr( SVN_REV_STR ) );
     qCritical() << "   built:" << __DATE__ << __TIME__;
 
     if( args.contains( "-about", Qt::CaseInsensitive ) )
